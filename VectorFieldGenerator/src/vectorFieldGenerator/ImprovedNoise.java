@@ -6,7 +6,7 @@ import java.awt.image.BufferedImage;
 import java.util.Random;
 public final class ImprovedNoise {
     // Created by Lochlin S. Craig
-    private static int frequency = 100;
+    private static int frequency = 100; // complexity
     private static double time = 0;
     private static BufferedImage image = new BufferedImage(Settings.WIDTH, Settings.HEIGHT, BufferedImage.TYPE_INT_RGB);
     private Particle[] particles;
@@ -16,7 +16,6 @@ public final class ImprovedNoise {
         this.particles = p;
         this.flowField = new Vector[Settings.COLLUMNS * Settings.ROWS];
     }
-
 
     // generates a grid of vectors with perlin niose determined direction
     public void getVectorGrid(Graphics2D g){
