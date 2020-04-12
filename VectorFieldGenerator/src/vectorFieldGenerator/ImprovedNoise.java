@@ -6,7 +6,7 @@ import java.awt.image.BufferedImage;
 import java.util.Random;
 public final class ImprovedNoise {
     // Created by Lochlin S. Craig
-    private static int frequency = 100; // complexity
+    private static int frequency = 50; // complexity
     private static double time = 0;
     private static BufferedImage image = new BufferedImage(Settings.WIDTH, Settings.HEIGHT, BufferedImage.TYPE_INT_RGB);
     private Particle[] particles;

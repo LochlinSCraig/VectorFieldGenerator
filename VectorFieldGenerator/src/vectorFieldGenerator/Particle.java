@@ -10,7 +10,7 @@ public class Particle {
     private Vector vel;
     private Vector acc;
     private int maxSpeed;
-    private int alpha = 5;
+    private int alpha = 13;
     private Vector prevPos;
     public Particle() {
         Random rnd = new Random();
@@ -18,7 +18,7 @@ public class Particle {
         Boolean neg = rnd.nextBoolean();
         this.vel = new Vector(0,0);
         this.acc = new Vector(0, 0);
-        this.maxSpeed = 15;
+        this.maxSpeed = 50;
         this.prevPos = new Vector(this.pos.getX(), this.pos.getY());
     }
     public void update(){
