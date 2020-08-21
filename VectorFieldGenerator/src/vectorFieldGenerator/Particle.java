@@ -18,7 +18,7 @@ public class Particle {
         Boolean neg = rnd.nextBoolean();
         this.vel = new Vector(0,0);
         this.acc = new Vector(0, 0);
-        this.maxSpeed = 50;
+        this.maxSpeed = 30;
         this.prevPos = new Vector(this.pos.getX(), this.pos.getY());
     }
     public void update(){

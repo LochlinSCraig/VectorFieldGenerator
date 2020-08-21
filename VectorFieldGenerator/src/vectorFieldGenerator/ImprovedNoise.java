@@ -56,7 +56,7 @@ public final class ImprovedNoise {
             particles[i].show(g);
         }
     }
-    // returns buffered image of random perlin nios
+    // returns buffered image of random perlin noise
     public static BufferedImage getNoiseImage(){
         time += 0.01;
         for( int y = 0 ; y  < Settings.HEIGHT ;  y++){
