@@ -17,7 +17,7 @@ public final class ImprovedNoise {
         this.flowField = new Vector[Settings.COLLUMNS * Settings.ROWS];
     }
 
-    // generates a grid of vectors with perlin niose determined direction
+    // generates a grid of vectors with perlin noise determined direction
     public void getVectorGrid(Graphics2D g){
         time += 0.01;
         this.drawVectors(g);
