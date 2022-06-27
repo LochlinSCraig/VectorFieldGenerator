@@ -2,6 +2,14 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/Users/loch/Documents/GitHub/VectorFieldGenerator/VectorFieldGenerator/src/vectorFieldGenerator/Particle.java</file>
+            <file>file:/Users/loch/Documents/GitHub/VectorFieldGenerator/VectorFieldGenerator/src/vectorFieldGenerator/MainWindow.java</file>
+            <file>file:/Users/loch/Documents/GitHub/VectorFieldGenerator/VectorFieldGenerator/src/vectorFieldGenerator/ImprovedNoise.java</file>
+            <file>file:/Users/loch/Documents/GitHub/VectorFieldGenerator/VectorFieldGenerator/src/vectorFieldGenerator/Main.java</file>
+            <file>file:/Users/loch/Documents/GitHub/VectorFieldGenerator/VectorFieldGenerator/src/vectorFieldGenerator/MainPanel.java</file>
+            <file>file:/Users/loch/Documents/GitHub/VectorFieldGenerator/VectorFieldGenerator/src/vectorFieldGenerator/Settings.java</file>
+            <file>file:/Users/loch/Documents/GitHub/VectorFieldGenerator/VectorFieldGenerator/src/vectorFieldGenerator/Vector.java</file>
+        </group>
     </open-files>
 </project-private>

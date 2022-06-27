@@ -2,7 +2,6 @@ package vectorFieldGenerator;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
 import javax.swing.JPanel;
-import javax.swing.Timer;
 public class MainPanel extends JPanel{
     // Created by Lochlin S. Craig
 //    private Timer timer = new Timer(10, e -> repaint());
